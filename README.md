@@ -1,4 +1,4 @@
-# TP2---IBD
+# Trabalho Prático da Disciplina de Introdução à Banco de Dados em 2023/2
 Esse trabalho tem como objetivo a análise e a exploração de conjuntos de dados públicos, proporcionados por meio da Lei de Acesso à Informação (Lei nº 12527/2011, ou LAI), que garante a transparência das informações governamentais. Dessa forma, foram escolhidos dois conjuntos de dados, sendo um sobre focos de calor e outro sobre população (ambos no âmbito nacional), além de termos criado um dataset Estado, utilizando dados dos estados brasileiros, incluindo o Distrito Federal. Usamos esses dados para entender a relação entre a quantidade populacional dos estados no Brasil com os focos de calor distribuídos ao longo do país.
 
 **Integrantes:**
